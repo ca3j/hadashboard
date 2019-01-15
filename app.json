@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "hadashboard",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
